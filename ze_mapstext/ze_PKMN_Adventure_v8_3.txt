@@ -2,7 +2,7 @@
 {
 	"Map created by the saltbat"
 	{
-		"chi"		"**地图制作:saltbat 地图翻译:不清新的木心♪ **"
+		"chi"		"**地图制作:saltbat 地图翻译:不清新的木心♪ 后期翻译补充：koyo_maple **"
 	}
 	"Also known as Lv. 100 Crobat"
 	{
@@ -967,7 +967,7 @@
 	}
 	"GO TO THE WINDWORKS VALLEY"
 	{
-		"chi"		"** **"
+		"chi"		"**我们要前往风车谷**"
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
@@ -975,27 +975,27 @@
 	}
 	"WINDWORKS VALLEY WAS TURNED ON"
 	{
-		"chi"		"** **"
+		"chi"		"**风车谷打开了**"
 	}
 	"**Zombie Ladders Spawned**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸梯子已生成**"
 	}
 	"sync_version"
 	{
 		"syncvalue"		"87938"
 	}
 	"Honchkrow has restored 500HP!"
-	{
-		"chi"		"** **"
+	{ 
+		"chi"		"**乌鸦头头恢复了五百HP**"
 	}
 	"Weavile has restored 500HP."
 	{
-		"chi"		"** **"
+		"chi"		"**玛狃拉恢复了五百HP**"
 	}
 	"**Zombiecage breaking in 12 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸笼子将在12s后打开**"
 	}
 	"**CUTSCENE SKIPPED**"
 	{
@@ -1015,27 +1015,27 @@
 	}
 	"**ITS PRIMAL GROUDON**"
 	{
-		"chi"		"** **"
+		"chi"		"**是固拉多**"
 	}
 	"**Primal Groudon used Eruption**"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用了火山喷发**"
 	}
 	"**We have 25 seconds to defeat him**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们只有25s来打败他**"
 	}
 	"**Or we will die**"
 	{
-		"chi"		"** **"
+		"chi"		"**否则我们都会死**"
 	}
 	"**Primal Groudon defeated**"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多被击败了**"
 	}
 	"**Level 2 Completed**"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡2完成**"
 	}
 	"***LEVEL 3***"
 	{
@@ -1043,15 +1043,15 @@
 	}
 	"GIRATINA USED VOID"
 	{
-		"chi"		"** **"
+		"chi"		"**骑拉帝纳使用了空间缝隙**"
 	}
 	"GO TO THE FRONT HURRY"
 	{
-		"chi"		"** **"
+		"chi"		"**赶紧到前面去，动作快**"
 	}
 	"**LEVEL 3 COMPLETED**"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡3完成**"
 	}
 	"**Teleporter will be activated in 60 seconds**"
 	{
@@ -1063,7 +1063,7 @@
 	}
 	"**Die**"
 	{
-		"chi"		"** **"
+		"chi"		"**看，一群贴门的noob死了**"
 	}
 	"**We will be teleported in 60 seconds**"
 	{
@@ -1072,19 +1072,19 @@
 	}
 	"**ITS ARCEUS!**"
 	{
-		"chi"		"**ITS ARCEUS!**"
+		"chi"		"**是阿尔宙斯！**"
 	}
 	"**Arceus used Spacial Rend**"
 	{
-		"chi"		"**注意准备跳刀**"
+		"chi"		"**阿尔宙斯使用了空间撕裂（到平台后面准备跳刀）**"
 	}
 	"**Arceus used Living Earth**"
 	{
-		"chi"		"**回头守尸笼**"
+		"chi"		"**阿尔宙斯使用了生命之地（回头守尸笼）**"
 	}
 	"**Arceus used Judgement**"
 	{
-		"chi"		"**创世神使用审批**"
+		"chi"		"**阿尔宙斯使用了审判**"
 	}
 	"**Shoot the sphere above of us!**"
 	{
@@ -1092,71 +1092,71 @@
 	}
 	"**Arceus used Roar of Time**"
 	{
-		"chi"		"**远离蓝色光球准备按W抵抗推力**"
+		"chi"		"**阿尔宙斯使用了时之咆哮（躲避蓝光并按W抵抗推力）**"
 	}
 	"**Arceus has fainted!**"
 	{
-		"chi"		"** **"
+		"chi"		"**阿尔宙斯晕倒了！**"
 	}
 	"**HUMANS TELEPORT IN 10 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在10s后传送**"
 	}
 	"**Zombies teleport in 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10s后传送**"
 	}
 	"**Arceus fight fatigued us with his Pressure**"
 	{
-		"chi"		"** **"
+		"chi"		"**阿尔宙斯在用他最后的压迫力与我们对抗**"
 	}
 	"**We need to reach the safe area to stop taking damage**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们需要到达安全的地方来停止受到的伤害**"
 	}
 	"**DEFEND FOR 65 SECONDS**"
 	{
-		"chi"		"** **"
+		"chi"		"**守住60s**"
 	}
 	"**30 SECONDS REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"**还有30s!!!**"
 	}
 	"**???**"
 	{
-		"chi"		"** **"
+		"chi"		"**???怎么回事!!?**"
 	}
 	"**WERE BEING ATTACKED BY A SHADE**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们正受到一个阴影的袭击！**"
 	}
 	"**The shade was Darkrai!**"
 	{
-		"chi"		"** **"
+		"chi"		"**那个阴影正是达克莱伊！**"
 	}
 	"**10 Seconds remaining**"
 	{
-		"chi"		"** **"
+		"chi"		"**还有最后10秒**"
 	}
 	"**We will defeat him the next time**"
 	{
-		"chi"		"**下次我们将击败他**"
+		"chi"		"**下一次我们将击败他**"
 	}
 	"**Level 4 Completed!**"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡4完成**"
 	}
 	"**Map by Lv. 100 Crobat**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：lv.100 Crobat 地图翻译:不清新的木心♪ 后期翻译补充：koyo_maple**"
 	}
 	"**Special thanks: AntiTeal"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：Antiteal**"
 	}
 	"**STAGE FAILED**"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡失败**"
 	}
 	"MapGlobal_ConVars"
 	{
