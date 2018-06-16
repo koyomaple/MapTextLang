@@ -2,199 +2,199 @@
 {
 	"**LEVEL 1**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"THE SECURITY BUILDING WILL BE AVAILABLE IN 1 MINUTE"
 	{
-		"chi"		"** **"
+		"chi"		"**安全大楼将在60s后到位**"
 	}
 	"THE SECURITY BUILDING WILL BE AVAILABLE IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**安全大楼将在10s后到位**"
 	}
 	"GO TO LAVENDER TOWN"
 	{
-		"chi"		"** **"
+		"chi"		"**前往紫苑镇**"
 	}
 	"WELCOME TO LAVENDER TOWN"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到紫苑镇**"
 	}
 	"DEFEND LAVENDER TOWN FOR 1 MINUTES"
 	{
-		"chi"		"** **"
+		"chi"		"**守住紫苑镇60s**"
 	}
 	"30 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩30s**"
 	}
 	"DEFEND HERE FOR 45 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住此处45s**"
 	}
 	"10 SECONDS LEFT"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余10s**"
 	}
 	"30 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩下30s**"
 	}
 	"ESCAPE FROM LAVENDER TOWN"
 	{
-		"chi"		"** **"
+		"chi"		"**从紫苑镇逃出去**"
 	}
 	"10 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10s**"
 	}
 	"5 MORE SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5s**"
 	}
 	"**LEVEL 1 COMPLETED"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡1完成**"
 	}
 	"WELCOME TO SLATEPORT CITY"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到枯叶市**"
 	}
 	"***LEVEL 2***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡2**"
 	}
 	"GO TO THE BICYCLE ROAD"
 	{
-		"chi"		"** **"
+		"chi"		"**去自行车道那**"
 	}
 	"TREES WILL BREAK IN 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**树木将在60s后倒下**"
 	}
 	"TREES WILL BREAK IN 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**树木将在30s后倒下**"
 	}
 	"TREES WILL BREAK IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**树木将在10s后倒下**"
 	}
 	"ESCAPE FROM SLATEPORT!"
 	{
-		"chi"		"** **"
+		"chi"		"***从凱那市逃出去！**"
 	}
 	"GO INSIDE THE HOUSE TO GO TO THE BIKE ROAD"
 	{
-		"chi"		"** **"
+		"chi"		"**快进房子里，这样我们才能到达自行车路**"
 	}
 	"***Player has picked Chansey! (HEAL)***"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拾取了吉利蛋（奶）**"
 	}
 	"***Recharge: 45 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**充能时间四十五秒**"
 	}
 	"***Player has picked Buizel! (WATER)***"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拾取了泳气鼬（水）**"
 	}
 	"***Recharge: 80 seconds.***"
 	{
-		"chi"		"** **"
+		"chi"		"**充能时间八十秒**"
 	}
 	"LETS SEE WHICH PATH WILL BE AVAIBLE"
 	{
-		"chi"		"** **"
+		"chi"		"**让我们看看哪条路可以走**"
 	}
 	"Dont stay here for too long."
 	{
-		"chi"		"** **"
+		"chi"		"**别在这待太久**"
 	}
 	"***Player has picked Gardevoir! (WALL)***"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家拾取了沙奈朵（墙）**"
 	}
 	"***Recharge: 60 Seconds.**"
 	{
-		"chi"		"** **"
+		"chi"		"**充能时间六十秒**"
 	}
 	"RIGHT PATH OPEN!"
 	{
-		"chi"		"** **"
+		"chi"		"**正确的道路已经打开了**"
 	}
 	"TELEPORTER #3 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点三将在45s后准备传送**"
 	}
 	"TELEPORTER #3 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点三将在10s后准备传送**"
 	}
 	"DEFEND THIS AREA FOR 60 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**在此处防守60s**"
 	}
 	"DEFEND THIS AREA FOR 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**在此处防守30s**"
 	}
 	"DEFEND THIS AREA FOR 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**在此处防守10s**"
 	}
 	"DEFEND HERE FOR 20 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**在此处防守20s**"
 	}
 	"DEFEND HERE FOR 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**在此处防守10s**"
 	}
 	"DEFEND HERE FOR 5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**在此处防守5s**"
 	}
 	"Lets take a rest before we continue"
 	{
-		"chi"		"** **"
+		"chi"		"**继续旅程前让我们先休息一会吧**"
 	}
 	"GROUDON HAS FAINTED, LETS GO"
 	{
-		"chi"		"** **"
+		"chi"		"**古纳多倒下了，我们走吧**"
 	}
 	"ITS WALLY!?"
 	{
-		"chi"		"** **"
+		"chi"		"**那是？？小光！？**"
 	}
 	"Wally: ITS NOT OVER YET GUYS."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:还没结束呢**"
 	}
 	"Wally: KIRLIA, USE BARRIER!"
 	{
-		"chi"		"** **"
+		"chi"		"**奇鲁莉安,使用栅栏**"
 	}
 	"SHOOT KIRLIA"
 	{
-		"chi"		"** **"
+		"chi"		"**射击奇鲁莉安**"
 	}
 	"Wally: ILL BE BACK!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光：我会回来的！**"
 	}
 	"DEFEND HERE FOR 35 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**在此处守住35s**"
 	}
 	"20 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**20s**"
 	}
 	"10 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**10s**"
 	}
 	"5"
 	{
@@ -218,79 +218,79 @@
 	}
 	"**ITS PRIMAL GROUDON**"
 	{
-		"chi"		"** **"
+		"chi"		"**是固拉多！**"
 	}
 	"**Primal Groudon used Eruption**"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用了火山爆发**"
 	}
 	"**We have 25 seconds to defeat him**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们只有25s来打败他**"
 	}
 	"**Or we will die**"
 	{
-		"chi"		"** **"
+		"chi"		"**否则我们都会死**"
 	}
 	"**Primal Groudon defeated**"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多被打败了**"
 	}
 	"**Level 2 Completed**"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡2完成**"
 	}
 	"***LEVEL 3***"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡3**"
 	}
 	"GO TO THE WINDWORKS VALLEY"
 	{
-		"chi"		"** **"
+		"chi"		"**我们将前往风车谷**"
 	}
 	"AND ACTIVATE THE TELEPORTER"
 	{
-		"chi"		"** **"
+		"chi"		"**然后去激活传送**"
 	}
 	"WINDWORKS VALLEY WAS TURNED ON"
 	{
-		"chi"		"** **"
+		"chi"		"**风车谷传送激活了**"
 	}
 	"DEFEND HERE FOR 30 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30s**"
 	}
 	"5 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**5s**"
 	}
 	"ITS WALLY!"
 	{
-		"chi"		"** **"
+		"chi"		"**是小光！**"
 	}
 	"Wally: CROBAT USE SLUDGE BOMB!"
 	{
-		"chi"		"** **"
+		"chi"		"**小光:叉字蝠使用毒液炸弹**"
 	}
 	"GET DOWN!"
 	{
-		"chi"		"** **"
+		"chi"		"**赶紧下楼梯,否则会被炸死**"
 	}
 	"Wally: Good job Crobat, lets get out."
 	{
-		"chi"		"** **"
+		"chi"		"**小光:干的漂亮叉字蝠，我们走吧**"
 	}
 	"PATH CLEAR, LETS GO!"
 	{
-		"chi"		"** **"
+		"chi"		"**障碍清理完毕，我们走吧**"
 	}
 	"PALKIA DOOR OPEN"
 	{
-		"chi"		"** **"
+		"chi"		"**帕路奇亚打开了大门**"
 	}
 	"DEFEND FOR 45 SECONDS!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住45s**"
 	}
 	"sync_version"
 	{
@@ -298,42 +298,42 @@
 	}
 	"MIDDLE PATH OPEN"
 	{
-		"chi"		"** **"
+		"chi"		"**中间路打开了**"
 	}
 	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点二将在45s后准备传送**"
 	}
 	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点二将在10s后准备传送**"
 	}
 	"SHOOT GROUDON!"
 	{
-		"chi"		"** **"
+		"chi"		"**射击固拉多**"
 	}
 	"GROUDON USED FISSURE!"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用了地裂**"
 	}
 	"GET ON THE SIDE PLATFORMS!"
 	{
-		"chi"		"** **"
+		"chi"		"**赶紧去旁边的平台上！**"
 	}
 	"GROUDON USED ROCK TOMB!"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用了石墓**"
 	}
 	"WERE TRAPPED, DESTROY THE TOMB!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们被困住了,赶紧击碎**"
 	}
 	"GROUDON USED LIGHTSCREEN"
 	{
-		"chi"		"** **"
+		"chi"		"**固拉多使用了光屏**"
 	}
 	"DESTROY THE LIGHTSCREEN"
 	{
-		"chi"		"** **"
+		"chi"		"**破坏它**"
 	}
 }
